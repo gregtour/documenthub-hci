@@ -1,0 +1,1595 @@
+[
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "National Science Foundation Network",
+        "time": "2018-12-02T21:48:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "Quality management system",
+        "time": "2018-12-04T09:48:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "Customer satisfaction research",
+        "time": "2018-12-05T05:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "List of Skittles products",
+        "time": "2018-12-05T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "National Science Foundation Network",
+        "time": "2018-12-07T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "Customer satisfaction research",
+        "time": "2018-12-10T07:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Ed",
+        "with": "Support",
+        "doc": "List of Skittles products",
+        "time": "2018-12-12T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "Quality management system",
+        "time": "2018-12-12T21:48:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "List of IBM products",
+        "time": "2018-12-13T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "List of Skittles products",
+        "time": "2018-12-14T12:12:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Beachamwell",
+        "time": "2018-12-14T17:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "Music of Oregon",
+        "time": "2018-12-15T09:48:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "List of cities in North America",
+        "time": "2018-12-19T17:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "Timeline of Apple Inc. products",
+        "time": "2018-12-21T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "List of cities in North America",
+        "time": "2018-12-22T09:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Accounts",
+        "user": "Tony",
+        "with": "Support",
+        "doc": "Beachamwell",
+        "time": "2018-12-26T00:12:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "Eastern United States",
+        "time": "2018-12-27T14:36:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "Consumer electronics",
+        "time": "2018-12-29T14:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Music of Oregon",
+        "time": "2018-12-30T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "Eastern United States",
+        "time": "2018-12-31T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "Consumer electronics",
+        "time": "2019-01-01T14:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Tom",
+        "with": "Support",
+        "doc": "National Science Foundation Network",
+        "time": "2019-01-01T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "Quality management system",
+        "time": "2019-01-02T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "List of Skittles products",
+        "time": "2019-01-03T07:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Chuck",
+        "with": "Accounts",
+        "doc": "National Science Foundation Network",
+        "time": "2019-01-03T19:24:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "Most valuable customers",
+        "time": "2019-01-03T21:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Jacqueline",
+        "with": "Support",
+        "doc": "List of IBM products",
+        "time": "2019-01-04T00:12:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Jacqueline",
+        "with": "Accounts",
+        "doc": "List of IBM products",
+        "time": "2019-01-05T02:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Chuck",
+        "with": "Research",
+        "doc": "Consumer electronics",
+        "time": "2019-01-07T00:12:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "Southern United States",
+        "time": "2019-01-07T14:36:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Carbon dioxide",
+        "time": "2019-01-08T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "Timeline of Apple Inc. products",
+        "time": "2019-01-10T09:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Accounts",
+        "user": "Tony",
+        "with": "Research",
+        "doc": "Beachamwell",
+        "time": "2019-01-13T19:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Support",
+        "user": "Taylor",
+        "with": "Research",
+        "doc": "Quality management system",
+        "time": "2019-01-13T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Beachamwell",
+        "time": "2019-01-14T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "Consumer electronics",
+        "time": "2019-01-15T05:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Atmosphere of Earth",
+        "time": "2019-01-17T02:36:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "List of Charvet customers",
+        "time": "2019-01-17T05:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Greenhouse gas emissions",
+        "time": "2019-01-19T05:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "ISO 19011",
+        "time": "2019-01-20T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Beachamwell",
+        "time": "2019-01-21T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "List of cities in North America",
+        "time": "2019-01-21T17:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "ISO 9000",
+        "time": "2019-01-22T12:12:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "List of SAP products",
+        "time": "2019-01-23T14:36:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "List of metropolitan areas by population",
+        "time": "2019-01-23T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Music of Oregon",
+        "time": "2019-01-24T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "National Science Foundation Network",
+        "time": "2019-01-24T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "List of SAP products",
+        "time": "2019-01-25T00:12:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "List of Motorola products",
+        "time": "2019-01-26T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "Southern United States",
+        "time": "2019-01-27T07:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Jacqueline",
+        "with": "Support",
+        "doc": "Timeline of Apple Inc. products",
+        "time": "2019-01-27T09:48:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "List of multiple-system operators",
+        "time": "2019-01-27T17:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "List of Canon products",
+        "time": "2019-01-29T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "List of multiple-system operators",
+        "time": "2019-02-02T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Southern United States",
+        "time": "2019-02-02T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "List of IBM products",
+        "time": "2019-02-02T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "List of Motorola products",
+        "time": "2019-02-03T05:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Research",
+        "user": "Emma",
+        "doc": "Rayleigh scattering",
+        "time": "2019-02-03T17:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "Customer support",
+        "time": "2019-02-03T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "List of multiple-system operators",
+        "time": "2019-02-03T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "List of Skittles products",
+        "time": "2019-02-05T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Carbon dioxide",
+        "time": "2019-02-06T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "List of cities in North America",
+        "time": "2019-02-06T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "List of SAP products",
+        "time": "2019-02-06T12:12:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Chuck",
+        "with": "Accounts",
+        "doc": "List of Skittles products",
+        "time": "2019-02-07T12:12:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Jacqueline",
+        "with": "Research",
+        "doc": "List of Canon products",
+        "time": "2019-02-08T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Matthew",
+        "doc": "Atmosphere of Earth",
+        "time": "2019-02-09T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "List of Charvet customers",
+        "time": "2019-02-10T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Carbon dioxide",
+        "time": "2019-02-10T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "List of metropolitan areas by population",
+        "time": "2019-02-11T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Eastern United States",
+        "time": "2019-02-11T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "List of multiple-system operators",
+        "time": "2019-02-12T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "List of cities in North America",
+        "time": "2019-02-12T14:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Tom",
+        "with": "Accounts",
+        "doc": "List of SAP products",
+        "time": "2019-02-13T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "List of IBM products",
+        "time": "2019-02-13T09:48:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Automotive industry in the United_States",
+        "time": "2019-02-13T14:36:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Norfolk, Virginia",
+        "time": "2019-02-13T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "List of multiple-system operators",
+        "time": "2019-02-14T05:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "Western United States",
+        "time": "2019-02-14T14:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Mary",
+        "with": "Products",
+        "doc": "Music of Oregon",
+        "time": "2019-02-15T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "National Science Foundation Network",
+        "time": "2019-02-17T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "List of Charvet customers",
+        "time": "2019-02-17T17:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "LTE (telecommunication)",
+        "time": "2019-02-18T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "ISO 9000",
+        "time": "2019-02-18T14:36:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "Customer satisfaction",
+        "time": "2019-02-21T02:36:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Electric car",
+        "time": "2019-02-21T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "ISO 19011",
+        "time": "2019-02-22T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "Customer satisfaction research",
+        "time": "2019-02-22T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "Customer support",
+        "time": "2019-02-22T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "Timeline of Apple Inc. products",
+        "time": "2019-02-23T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Western United States",
+        "time": "2019-02-23T02:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Accounts",
+        "user": "Tony",
+        "with": "Support",
+        "doc": "List of metropolitan areas by population",
+        "time": "2019-02-23T07:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Support",
+        "user": "Taylor",
+        "with": "Research",
+        "doc": "Most valuable customers",
+        "time": "2019-02-23T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "Western United States",
+        "time": "2019-02-23T21:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Accounts",
+        "user": "Susan",
+        "with": "Research",
+        "doc": "Southern United States",
+        "time": "2019-02-24T14:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "List of cities in North America",
+        "time": "2019-02-24T19:24:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "List of cleaning products",
+        "time": "2019-02-25T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Emma",
+        "doc": "Music of Oregon",
+        "time": "2019-02-25T21:48:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "List of mobile network operators",
+        "time": "2019-02-26T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "Customer satisfaction research",
+        "time": "2019-02-26T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "Most valuable customers",
+        "time": "2019-02-26T14:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Support",
+        "user": "Steve",
+        "with": "Accounts",
+        "doc": "Customer satisfaction",
+        "time": "2019-02-28T02:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Mary",
+        "with": "Accounts",
+        "doc": "Carbon dioxide",
+        "time": "2019-02-28T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "List of mobile network operators",
+        "time": "2019-03-01T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "Music of Oregon",
+        "time": "2019-03-02T14:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "List of cleaning products",
+        "time": "2019-03-02T17:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "Big-box store",
+        "time": "2019-03-02T17:00:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Chuck",
+        "with": "Support",
+        "doc": "List of multiple-system operators",
+        "time": "2019-03-03T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "LTE (telecommunication)",
+        "time": "2019-03-07T05:00:49.394Z"
+    },
+    {
+        "type": "created",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "Customer service",
+        "time": "2019-03-09T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "List of cities in North America",
+        "time": "2019-03-09T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Carbon dioxide",
+        "time": "2019-03-11T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "List of Skittles products",
+        "time": "2019-03-11T19:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Tim",
+        "with": "Support",
+        "doc": "Carbon dioxide",
+        "time": "2019-03-12T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "List of Charvet customers",
+        "time": "2019-03-12T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Automotive industry in the United_States",
+        "time": "2019-03-14T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "Quality management system",
+        "time": "2019-03-14T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "Electric car",
+        "time": "2019-03-14T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "List of Charvet customers",
+        "time": "2019-03-15T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "ISO 19011",
+        "time": "2019-03-16T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "List of multiple-system operators",
+        "time": "2019-03-17T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "LTE (telecommunication)",
+        "time": "2019-03-19T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "Customer support",
+        "time": "2019-03-19T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "List of IBM products",
+        "time": "2019-03-19T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "Timeline of Apple Inc. products",
+        "time": "2019-03-19T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Southern United States",
+        "time": "2019-03-23T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "Customer service",
+        "time": "2019-03-24T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "Carbon dioxide",
+        "time": "2019-03-24T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "Customer satisfaction",
+        "time": "2019-03-25T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Matthew",
+        "doc": "Big-box store",
+        "time": "2019-03-26T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "List of SAP products",
+        "time": "2019-03-26T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Norfolk, Virginia",
+        "time": "2019-03-27T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "List of cities in North America",
+        "time": "2019-03-28T07:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Tom",
+        "with": "Support",
+        "doc": "List of Motorola products",
+        "time": "2019-03-28T07:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Matthew",
+        "with": "Support",
+        "doc": "Atmosphere of Earth",
+        "time": "2019-03-28T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "ISO 9000",
+        "time": "2019-03-28T14:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "List of Charvet customers",
+        "time": "2019-03-28T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "List of Motorola products",
+        "time": "2019-03-29T02:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Support",
+        "user": "Steve",
+        "with": "Research",
+        "doc": "Customer satisfaction",
+        "time": "2019-03-29T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "List of metropolitan areas by population",
+        "time": "2019-03-29T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "LTE (telecommunication)",
+        "time": "2019-03-29T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "National Science Foundation Network",
+        "time": "2019-03-29T21:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Accounts",
+        "user": "Jose",
+        "with": "Products",
+        "doc": "Eastern United States",
+        "time": "2019-03-30T00:12:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Mary",
+        "with": "Products",
+        "doc": "Atmosphere of Earth",
+        "time": "2019-03-31T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "Southern United States",
+        "time": "2019-03-31T05:00:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Tim",
+        "with": "Accounts",
+        "doc": "Atmosphere of Earth",
+        "time": "2019-03-31T12:12:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Emma",
+        "with": "Support",
+        "doc": "Automotive industry in the United_States",
+        "time": "2019-04-01T00:12:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Support",
+        "user": "Taylor",
+        "with": "Research",
+        "doc": "ISO 19011",
+        "time": "2019-04-01T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "List of mobile network operators",
+        "time": "2019-04-01T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "Southern United States",
+        "time": "2019-04-01T19:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Accounts",
+        "user": "Susan",
+        "with": "Products",
+        "doc": "List of metropolitan areas by population",
+        "time": "2019-04-02T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Emma",
+        "doc": "Rayleigh scattering",
+        "time": "2019-04-03T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "List of mobile network operators",
+        "time": "2019-04-03T14:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Electric car",
+        "time": "2019-04-03T17:00:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Emma",
+        "with": "Products",
+        "doc": "Automotive industry in the United_States",
+        "time": "2019-04-03T21:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Matthew",
+        "with": "Products",
+        "doc": "Greenhouse gas emissions",
+        "time": "2019-04-04T14:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Ed",
+        "with": "Accounts",
+        "doc": "Consumer electronics",
+        "time": "2019-04-05T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "Most valuable customers",
+        "time": "2019-04-05T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "Customer support",
+        "time": "2019-04-06T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Norfolk, Virginia",
+        "time": "2019-04-08T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Emma",
+        "doc": "Carbon dioxide",
+        "time": "2019-04-09T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "ISO 9000",
+        "time": "2019-04-10T12:12:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Support",
+        "user": "Steve",
+        "with": "Products",
+        "doc": "ISO 9000",
+        "time": "2019-04-11T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "Southern United States",
+        "time": "2019-04-11T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "LTE (telecommunication)",
+        "time": "2019-04-12T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "Customer service",
+        "time": "2019-04-13T00:12:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Accounts",
+        "user": "Tony",
+        "with": "Research",
+        "doc": "Western United States",
+        "time": "2019-04-14T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Taylor",
+        "doc": "List of Charvet customers",
+        "time": "2019-04-15T02:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Tom",
+        "with": "Research",
+        "doc": "List of SAP products",
+        "time": "2019-04-15T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "List of mobile network operators",
+        "time": "2019-04-15T14:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "List of Charvet customers",
+        "time": "2019-04-15T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "Customer support",
+        "time": "2019-04-16T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "List of metropolitan areas by population",
+        "time": "2019-04-17T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Tom",
+        "doc": "List of cleaning products",
+        "time": "2019-04-17T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "Greenhouse gas emissions",
+        "time": "2019-04-17T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Mary",
+        "doc": "Greenhouse gas emissions",
+        "time": "2019-04-19T21:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Jacqueline",
+        "with": "Accounts",
+        "doc": "List of Canon products",
+        "time": "2019-04-20T14:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Matthew",
+        "doc": "Big-box store",
+        "time": "2019-04-20T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "Customer satisfaction",
+        "time": "2019-04-21T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "List of cleaning products",
+        "time": "2019-04-23T19:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Matthew",
+        "with": "Accounts",
+        "doc": "Automotive industry in the United_States",
+        "time": "2019-04-24T02:36:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Matthew",
+        "with": "Accounts",
+        "doc": "Greenhouse gas emissions",
+        "time": "2019-04-24T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "Atmosphere of Earth",
+        "time": "2019-04-24T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "List of metropolitan areas by population",
+        "time": "2019-04-24T07:24:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Mary",
+        "with": "Products",
+        "doc": "Rayleigh scattering",
+        "time": "2019-04-24T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "Music of Oregon",
+        "time": "2019-04-24T12:12:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Tom",
+        "with": "Accounts",
+        "doc": "List of cleaning products",
+        "time": "2019-04-26T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Western United States",
+        "time": "2019-04-27T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Emma",
+        "doc": "Rayleigh scattering",
+        "time": "2019-04-28T09:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Chuck",
+        "with": "Support",
+        "doc": "List of SAP products",
+        "time": "2019-04-29T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "List of multiple-system operators",
+        "time": "2019-04-29T21:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Products",
+        "user": "Chuck",
+        "with": "Research",
+        "doc": "List of cleaning products",
+        "time": "2019-05-01T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "Customer service",
+        "time": "2019-05-02T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Western United States",
+        "time": "2019-05-02T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "List of Canon products",
+        "time": "2019-05-05T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Western United States",
+        "time": "2019-05-05T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "LTE (telecommunication)",
+        "time": "2019-05-07T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Emma",
+        "doc": "Big-box store",
+        "time": "2019-05-07T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Matthew",
+        "doc": "Rayleigh scattering",
+        "time": "2019-05-07T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "Automotive industry in the United_States",
+        "time": "2019-05-08T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Emma",
+        "doc": "Electric car",
+        "time": "2019-05-09T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "Western United States",
+        "time": "2019-05-12T02:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "LTE (telecommunication)",
+        "time": "2019-05-12T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Matthew",
+        "doc": "Rayleigh scattering",
+        "time": "2019-05-12T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Tim",
+        "doc": "List of mobile network operators",
+        "time": "2019-05-12T09:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Tim",
+        "with": "Products",
+        "doc": "Big-box store",
+        "time": "2019-05-12T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Jose",
+        "doc": "Norfolk, Virginia",
+        "time": "2019-05-13T17:00:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Mary",
+        "with": "Support",
+        "doc": "List of mobile network operators",
+        "time": "2019-05-15T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Steve",
+        "doc": "Customer service",
+        "time": "2019-05-15T14:36:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Ed",
+        "doc": "List of cleaning products",
+        "time": "2019-05-16T05:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Research",
+        "user": "Matthew",
+        "doc": "List of mobile network operators",
+        "time": "2019-05-16T09:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Support",
+        "user": "Oliver",
+        "doc": "List of SAP products",
+        "time": "2019-05-28T09:48:49.394Z"
+    },
+    {
+        "type": "shared",
+        "team": "Research",
+        "user": "Mary",
+        "with": "Products",
+        "doc": "Electric car",
+        "time": "2019-05-28T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Tony",
+        "doc": "Greenhouse gas emissions",
+        "time": "2019-06-03T00:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "Automotive industry in the United_States",
+        "time": "2019-06-03T07:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "Electric car",
+        "time": "2019-06-11T17:00:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Chuck",
+        "doc": "ISO 9000",
+        "time": "2019-06-12T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "Consumer electronics",
+        "time": "2019-06-14T12:12:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "Atmosphere of Earth",
+        "time": "2019-06-29T19:24:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Products",
+        "user": "Jacqueline",
+        "doc": "Atmosphere of Earth",
+        "time": "2019-07-03T21:48:49.394Z"
+    },
+    {
+        "type": "edited",
+        "team": "Accounts",
+        "user": "Susan",
+        "doc": "Automotive industry in the United_States",
+        "time": "2019-07-20T02:36:49.394Z"
+    }
+]

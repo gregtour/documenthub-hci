@@ -1,0 +1,150 @@
+.App {
+  position: relative;
+}
+
+.ConsentTerms {
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  background-color: rgba(240, 240, 240, 0.9);
+  padding: 100px;
+}
+
+.SideBarTitle {
+  text-align: center;
+}
+
+.SideBarInstructions 
+{
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 270px;
+  padding: 5px;
+  background-color: #ddd;
+  overflow: scroll;
+}
+
+.btnyellow {
+  background-color: #ff0;
+}
+
+.MainApp {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 280px;
+  right: 0;
+}
+
+.MainTitle {
+  text-align: center;
+  margin: 0 auto;
+  background-color: #fff;
+}
+
+.SearchBar {
+  margin: 0 auto;
+  width: 800px;
+  overflow: hidden;
+  background-color: #fff;
+}
+
+.FiltersBar {
+  margin: 0 auto;
+  text-align: center;
+}
+
+.SearchResults {
+  position: absolute;
+  top: 150px;
+  bottom: 0;
+  left: 50px;
+  right: 50px;
+  overflow: scroll;
+}
+
+.ResultsContainer {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.SearchResult
+{
+  margin-top: 20px;
+  position: relative;
+  width: 100%;
+  height: 120px;
+}
+
+.icon
+{
+  position: absolute;
+  right: 20px;
+  top: 10px;
+  cursor: pointer;
+}
+
+.excerpt 
+{
+  position: absolute;
+  right: 100px;
+  left: 0;
+  top: 0;
+  height: 120px;
+  border-radius: 2px;
+  padding: 2px;
+
+
+  overflow: hidden;
+
+}
+
+.excerpt-cover {
+  position: absolute;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(transparent 80px, #fff);
+}
+
+.excerpt-text {
+  left: 0;
+  top: 0;
+  bottom: 0;
+  right: 0;
+}
+
+
+.result-info { 
+  margin: 2px;
+  float: right; 
+}
+
+.created {
+  background-color: #F3C7C7;
+}
+
+.shared {
+  background-color: #C1B1E3;
+}
+
+.edited {
+  background-color: #F3EBC7;
+}
+
+.result-title { margin: 5px; font-weight: bold; }
+.result-group { display: inline; }
+.result-date { display: inline; }
+.result-type { display: inline; }
+.result-text {
+  margin: 10px;
+}
+
+
